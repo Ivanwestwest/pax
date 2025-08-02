@@ -1,2 +1,2 @@
-# pax
-App interprovincial entre passageiros e motoristas (Angola)
+# Pax
+App para conectar motoristas e passageiros interprovinciais em Angola.
